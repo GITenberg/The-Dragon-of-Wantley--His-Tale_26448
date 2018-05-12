@@ -1,0 +1,34 @@
+_repo: The-Dragon-of-Wantley--His-Tale_26448
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stewardson, John
+    gutenberg_agent_id: '32014'
+    url: http://www.gutenberg.org/2009/agents/32014
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+description: ''
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Dragons -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+title: 'The Dragon of Wantley: His Tale'
+url: http://www.gutenberg.org/ebooks/26448
