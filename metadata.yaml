@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/450
     wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26448#The-Dragon-of-Wantley--His-Tale
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
 identifiers:
